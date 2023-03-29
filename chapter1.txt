@@ -1,1 +1,2 @@
 This is another story in another repository.
+This change is in the branch 2 to check the git branches.
